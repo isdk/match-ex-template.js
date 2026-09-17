@@ -1,6 +1,6 @@
 {
   "name": "@isdk/match-ex-template",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Riceball LEE <snowyu.lee@gmail.com>",
   "description": "Template interpolation plugin for @isdk/match-ex, backed by @isdk/template-engines. Importing it registers StringTemplate into the engine, so {{placeholder}} expectations interpolate out of the box.",
   "keywords": [
