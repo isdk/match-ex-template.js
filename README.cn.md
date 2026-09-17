@@ -1,5 +1,8 @@
 # @isdk/match-ex-template
 
+> 【[English](./README.md)|中文】
+---
+
 [`@isdk/match-ex`](https://github.com/isdk/match-ex.js) 的模板插值插件，由 [`@isdk/template-engines`](https://github.com/isdk/template-engines.js) 驱动。
 
 导入本包即把 `StringTemplate` 注册进引擎，`{{占位符}}` 期望开箱即用。

@@ -1,5 +1,8 @@
 # @isdk/match-ex-template
 
+> 【English|[中文](./README.cn.md)】
+---
+
 Template interpolation plugin for [`@isdk/match-ex`](https://github.com/isdk/match-ex.js), backed by [`@isdk/template-engines`](https://github.com/isdk/template-engines.js).
 
 Importing this package registers `StringTemplate` into the engine, so `{{placeholder}}` expectations interpolate out of the box.
