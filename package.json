@@ -42,10 +42,13 @@
     "release.alpha": "pnpm run release -- --prerelease alpha"
   },
   "dependencies": {
-    "@isdk/match-ex": "workspace:^",
     "@isdk/template-engines": "workspace:^"
   },
+  "peerDependencies": {
+    "@isdk/match-ex": "workspace:^"
+  },
   "devDependencies": {
+    "@isdk/match-ex": "workspace:^",
     "@types/node": "^25.1.0",
     "prettier": "^3.9.7",
     "terser": "^5.51.2",
